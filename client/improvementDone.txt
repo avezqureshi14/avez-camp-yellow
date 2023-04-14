@@ -1,0 +1,11 @@
+As per mentioned in the Internship Assignment, to list the changes which have been done in the given screenshot
+
+LIVE LINK of improved Version : https://avez-camp-yellow.netlify.app/
+🔴 Improvements made
+🎯 Background Improvement, made look more proffesional by adding overlay image
+🎯 Font family and sizing Changed
+🎯 Button Colors Improved
+🎯 Navbar Improved
+🎯 Range Slider Improved
+🎯 Added Framer Motion animation effects from smooth UI
+🎯 Added download button icon to make it look more catchy
