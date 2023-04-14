@@ -8,14 +8,14 @@ LIVE LINK of improved Version : https://avez-camp-yellow.netlify.app/
 <br>
 🎯 Background Improvement, made look more proffesional by adding overlay image
 <br>
-🎯 Font family and sizing
+🎯 Font family and sizing Changed
 <br>
-🎯 Button Colors
+🎯 Button Colors Improved
 <br>
-🎯 Navbar 
+🎯 Navbar Improved
 <br>
-🎯 Range Slider
+🎯 Range Slider Improved
 <br>
-🎯 Add Framer Motion animation effects
+🎯 Added Framer Motion animation effects from smooth UI
 <br>
 🎯 Added download button icon to make it look more catchy 
