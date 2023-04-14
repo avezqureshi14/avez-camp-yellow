@@ -1,6 +1,8 @@
 # avez-camp-yellow
 As per mentioned in the Internship Assignment, to list the changes which have been done in the given screenshot 
 <br>
+<br>
+<br>
 🔴 Improvements made
 <br>
 🎯 Background Improvement, made look more proffesional by adding overlay image
