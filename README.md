@@ -16,6 +16,6 @@ LIVE LINK of improved Version : https://avez-camp-yellow.netlify.app/
 <br>
 🎯 Range Slider Improved
 <br>
-🎯 Added Framer Motion animation effects from smooth UI
+🎯 Added Framer Motion animation effects for smooth UI
 <br>
 🎯 Added download button icon to make it look more catchy 
